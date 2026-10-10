@@ -1,0 +1,8 @@
+{
+  "name": "Tech Interview Coach",
+  "description": "An AI-powered platform helping developers master technical interviews through interactive coaching, coding practice, and simulated interview assessments.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
